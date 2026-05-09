@@ -53,9 +53,9 @@ El programa debe pedir el dinero disponible y luego indicar qué puedes comprar 
 
 | Dinero disponible | Qué puedes comprar |
 |-------------------|-------------------|
-| menos de 2000     | Te alcanzan para un bebida  |
-| entre 2000 y 5000 | Te alcanzan para un completo |
-| más de 5000       | Te alcanzan para un completo, una bebida y un postre |
+| menos de 2000     | Te alcanza para un bebida  |
+| entre 2000 y 5000 | Te alcanza para un completo |
+| más de 5000       | Te alcanza para un completo, una bebida y un postre |
 
 **⬇️ Entrada:**
 ```
@@ -64,7 +64,7 @@ El programa debe pedir el dinero disponible y luego indicar qué puedes comprar 
 
 **⬆️ Salida:**
 ```
-Te alcanzan para un completo
+Te alcanza para un completo
 ```
 
 ---
